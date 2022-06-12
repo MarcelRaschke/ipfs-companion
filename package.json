@@ -118,7 +118,7 @@
     "assert": "2.0.0",
     "buffer": "6.0.3",
     "choo": "7.1.0",
-    "debug": "4.3.1",
+    "debug": "4.3.2",
     "drag-and-drop-files": "0.0.1",
     "filesize": "6.1.0",
     "ipfs": "0.54.4",
